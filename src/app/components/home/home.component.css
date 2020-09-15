@@ -1,0 +1,44 @@
+/* Banner START */
+
+.background {
+    background: url('../../../assets/images/wave.svg');
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container {
+    position: relative;
+}
+
+/* Banner END */
+
+/* Resposnveness START */
+
+@media (min-width:769px) and (max-device-width: 1024px) {
+    /* Banner START */
+    .logo {
+        position: relative;
+        left: 50%;
+    }
+    .text_block__parent {
+        text-align: center;
+    }
+    .container__text {
+        margin-left: 1%;
+        margin-right: 3%;
+    }
+    .container__text > input {
+        margin: 0%;
+        width: 100%;
+    }
+    .img_background {
+        width: 100%;
+    }
+    /* Banner END */
+}
+
+/* Responsivenss END */
