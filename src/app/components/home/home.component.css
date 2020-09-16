@@ -12,6 +12,60 @@
 
 .container {
     position: relative;
+    margin-top: 5%;
+}
+
+.logo {
+    position: relative;
+    left: 50%;
+}
+.text_block__parent {
+    text-align: center;
+}
+.container__text {
+    margin-left: 1%;
+    margin-right: 3%;
+}
+.container__text > input {
+    margin: 0%;
+    width: 100%;
+}
+.img_background {
+    width: 100%;
+}
+
+.container__text {
+    display: inline-block;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    width: 50%;
+    text-align: center;
+}
+
+.container__text  > input {
+    border: none;
+    height: 30px;
+    border-radius: 2px;
+    position: relative;
+    width: 25%;
+    margin-right: 2%;
+}
+
+.img_background {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    width: 50%;
+}
+
+.container__text  > button {
+    border: none;
+    height: 30px;
+    border-radius: 2px;
+    color: white;
+    background: #131416;
+    position: relative;
 }
 
 /* Banner END */
