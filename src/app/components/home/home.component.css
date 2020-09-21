@@ -17,3 +17,66 @@
     margin-top: 7%;
 }
 /* Banner END */
+
+/* Features START */
+.features {
+    margin-top: 25%;
+    margin-left: 25%;
+}
+
+.features__text > div {
+    text-align: center;
+    display: inline-block;
+    width: 25%;
+    float: left;
+}
+/* Fetures END */
+
+/* Customer START */
+.customers {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 10%;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+.customers > div {
+    display: inline-block;
+}
+/* Customer END */
+
+/* QUote SECTION START */
+.quote_section {
+    font-size: x-large;
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+    margin-top: 5%;
+}
+
+.free_trial {
+    background: #0099FF;
+    border: none;
+    border-radius: 2px;
+    height: 40px;
+    color: white;
+    padding: 10px;
+}
+/* QUote Section END */
+
+/* Footer START */
+.footer {
+    display: inline-block;
+    margin-top: 5%;
+    text-align: center;
+    width: 100%;
+}
+
+.footer > a {
+    float: right;
+    text-decoration: none;
+    color: black;
+    margin-right: 5%;
+}
+/* Footer END */
