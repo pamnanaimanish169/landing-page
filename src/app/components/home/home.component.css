@@ -80,3 +80,170 @@
     margin-right: 5%;
 }
 /* Footer END */
+
+
+/* Media Query START */
+@media screen and (min-width: 0px) and (max-width:360px) {
+    .container {
+        width: 100%;
+    }
+
+    /* Fetaures START */
+    .features {
+        width: 100%;
+        display: inline-block;
+        margin-left: 0;
+    }
+
+    .features__text > div {
+        width: 100%;
+        display: inline-block;
+    }
+    /* Features END */
+
+    /* Quote Section START */
+    .quote_section {
+        width: 100%;
+        margin-left: 0;
+    }
+    /* Quote Section END */
+
+    /* Customer START */
+    .customers {
+        margin-left: 0;
+        width: 100%;
+    }
+    /* Customers END */
+}
+
+@media screen and (min-width: 361px) and (max-width:768px) {
+    .container {
+        width: 100%;
+    }
+
+    /* Fetaures START */
+    .features {
+        width: 100%;
+        display: inline-block;
+        margin-left: 0;
+    }
+
+    .features__text > div {
+        width: 100%;
+        display: inline-block;
+    }
+    /* Features END */
+
+    /* Quote Section START */
+    .quote_section {
+        width: 100%;
+        margin-left: 0;
+    }
+    /* Quote Section END */
+    /* Customer START */
+    .customers {
+        margin-left: 0;
+        width: 100%;
+    }
+    /* Customers END */
+}
+
+@media screen and (min-width: 769px) and (max-width:1024px) {
+    .container {
+        width: 100%;
+    }
+
+    /* Fetaures START */
+    .features {
+        width: 100%;
+        display: inline-block;
+        margin-left: 0;
+    }
+
+    .features__text > div {
+        width: 100%;
+        display: inline-block;
+    }
+    /* Features END */
+
+    /* Quote Section START */
+    .quote_section {
+        width: 100%;
+        margin-left: 0;
+    }
+    /* Quote Section END */
+
+    /* Customer START */
+    .customers {
+        margin-left: 0;
+        width: 100%;
+    }
+    /* Customers END */
+}
+
+@media screen and (min-width: 1025px) and (max-width:1200px) {
+    .container {
+        width: 100%;
+    }
+
+    /* Fetaures START */
+    .features {
+        width: 100%;
+        display: inline-block;
+        margin-left: 0;
+    }
+
+    .features__text > div {
+        width: 100%;
+        display: inline-block;
+    }
+    /* Features END */
+
+    /* Quote Section START */
+    .quote_section {
+        width: 100%;
+        margin-left: 0;
+    }
+    /* Quote Section END */
+
+    /* Customer START */
+    .customers {
+        margin-left: 0;
+        width: 100%;
+    }
+    /* Customers END */
+}
+
+@media screen and (min-width: 1201px) and (max-width:1880px) {
+    .container {
+        width: 100%;
+    }
+
+    /* Fetaures START */
+    .features {
+        width: 100%;
+        display: inline-block;
+        margin-left: 0;
+    }
+
+    .features__text > div {
+        width: 100%;
+        display: inline-block;
+    }
+    /* Features END */
+
+    /* Quote Section START */
+    .quote_section {
+        width: 100%;
+        margin-left: 0;
+    }
+    /* Quote Section END */
+
+    /* Customer START */
+    .customers {
+        margin-left: 0;
+        width: 100%;
+    }
+    /* Customers END */
+}   
+/* Media Query END */
